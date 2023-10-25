@@ -1,0 +1,50 @@
+.navi{
+    padding: 0 10%;
+}
+
+.hed{
+    height: 100vh;
+    background-image: url('https://landing.zytheme.com/cobuild/assets/images/hero/1.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.head_rem{
+    margin-top: 190px;
+}
+
+.head-cont
+{
+    padding-top: 15%;
+}
+.sub-head
+{
+    font-size: 35px;
+}
+.servlist h4{
+    font-weight: 400;
+}
+.servlist i{
+    color: #f5af00;
+}
+.workpic
+{
+    background-image: url('https://images.unsplash.com/photo-1541888946425-d81bb19240f5?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    height: 300px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.work
+{
+    padding:0 10% ;
+}
+h5{
+    margin-top: 10px;
+}
+ul li a{
+    color: white !important;
+    font-weight: 300;
+}
